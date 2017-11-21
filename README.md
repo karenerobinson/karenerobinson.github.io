@@ -1,2 +1,1 @@
-# karenerobinson.github.io
-github pages test w Rima
+The Makefile has all the command shortcuts.

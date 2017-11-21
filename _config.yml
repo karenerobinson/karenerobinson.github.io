@@ -1,0 +1,53 @@
+url: http://thomasandkaren.us
+baseurl: ''
+
+# Site settings
+title: '#TKWedding'
+email: tk@thomasandkaren.us
+description: "Thomas and Karen's Wedding 2017"
+
+
+# Team names, titles and social links
+people:
+- name: Karen E. Robinson
+  pic: IMG_20170528_164420_256x256.jpg
+  position: The Smart One
+  social:
+    - title: twitter
+      url: //twitter.com/kerobinso
+    - title: facebook
+      url: //facebook.com/karenerobinson
+    - title: linkedin
+      url: //linkedin.com/in/karenerobinson
+
+- name: Thomas Garner
+  pic: 7b750a5d0b7873c1ce8fadbbff6910d4.jpg
+  position: The Nice One
+  social:
+    - title: twitter
+      url: //twitter.com/thomas536
+    - title: facebook
+      url: //facebook.com/thomas536
+    - title: linkedin
+      url: //linkedin.com/in/thomas536
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  #- title: twitter
+  #  url: http://twitter.com/tkwedding
+  #- title: facebook
+  #  url: http://facebook.com/tkwedding
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/tkwedding
+  - title: tumblr
+    url: //beakerdog.tumblr.com/
+  - title: github
+    url: //github.com/thomas536/agency-jekyll-theme
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Mountain View, CA 94043
+
+# Build settings
+markdown: kramdown
+permalink: pretty
