@@ -1,11 +1,23 @@
----
-layout: archive
----
+{% include header.html %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<img class="img-responsive center-block" src="/static/img/Zunder Lab Header Image.png" alt="Zunder Lab CyTOF Snapshot">
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- width=100% style="padding:40px" -->
 
-{% include paginator.html %}
+
+<div class="row-fluid">
+    <div class="col-sm-8">
+    	
+    	<div class="jumbotron">
+        	{{ content }}
+        </div>
+    </div>
+    <div class="col-sm-4">
+    	<br>
+    	<img class="img-responsive-rounded center-block" src="/static/img/Dry Erase Board.jpg" alt="Eli at dry erase board">
+    	<br>
+        {% include sidebar.html %}
+    </div>
+</div>
+
+{% include footer.html %}
