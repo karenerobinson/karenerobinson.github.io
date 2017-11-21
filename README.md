@@ -1,8 +1,5 @@
-# zunderlab.github.io
+# fraser-lab.github.io
 ====================
-
-This website was built using the Fraser Lab [website](http://fraserlab.com/) as a template.  James Fraser's website is open-source and available on [Github](https://github.com/fraser-lab/fraser-lab.github.io)
-
 
 Technologies this website uses:  
 
@@ -15,9 +12,5 @@ Before pushing changes, please check that they will work on your system first wi
     sudo gem install bundler
     bundle install
     bundle exec jekyll serve
-
-To push changes, navigate to the root directory of zunderlab.github.io and execute the following commands:
-
-	git add --all .
-	git commit -m "version-specific note"
-	git push origin master
+    
+for specific instructions about making changes to the website, please check the wiki. It will (eventually) be populated with specific instructions for any changes you might want to make. If it isn't there, try to solve it but if you can't, ask Ben.

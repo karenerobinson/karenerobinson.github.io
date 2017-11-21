@@ -1,4 +1,34 @@
-#- name: Place Holder
-#  position: Place Holder
-#  enddate: Place Holder
-#  current: Place Holder
+- name: David Mavor
+  position: Graduate Student
+  startdate: 2012
+  enddate: 2017
+  current: Woods Hole
+  
+- name: Tomas Lazarou
+  position: Visiting Canadian Technician
+  startdate: Spring 2016
+  enddate: Winter 2016
+  current: Graduate Student - NYU
+
+- name: Andrew VanBenschoten, PhD
+  position: Graduate Student
+  startdate: 2011
+  enddate: 2015
+  current: Senior Data Scientist @ Oracle
+
+- name: Lillian Kenner
+  position: Specialist
+  startdate: 2011
+  enddate: 2014
+  current: Graduate Student - Frost Lab @ UCSF
+
+- name: Khanh Vuu
+  position: Technician
+  startdate: 2012
+  enddate: 2013
+  current: LBL
+
+- name: Avi Samelson
+  position: Technician
+  enddate: Summer 2011
+  current: Graduate Student - Marqusee Lab @ UC Berkeley

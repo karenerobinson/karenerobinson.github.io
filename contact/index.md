@@ -1,52 +1,108 @@
 ---
-title: Contact the Zunder Lab
+title: Contact the Fraser Lab
 layout: default
 group: contact
 ---
 
-# Contact the Zunder Lab
+# Contact the Fraser Lab
 
 
 <div class="row">
 
 <div class="col-md-4">
 
-  <h4>Eli Zunder</h4>
-  Assistant Professor  <br>
-  Department of Biomedical Engineering  <br>
-  School of Engineering and Applied Science  <br>
-  School of Medicine <br>
-  <br>
-  email: ezunder (#!) virginia.edu <br>
-  tel: 434 924 137 one
+  <h4>Lab Area </h4>
+  tel: 415 502 348 eight
+
+</div>
+
+<div class="col-md-4">
+
+  <h4>James Fraser</h4>
+  Associate Professor  <br>
+  Department of Bioengineering and Therapeutic Sciences  <br>
+  California Institute of Quantitative Biosciences (QB3)  <br>
+  email: jfraser (at) fraserlab.com <br>
+  tel: 415 502 186 three
+
+</div>
+
+<div class="col-md-4">
+
+  <h4> Cathleen Nicole Canlas</h4>
+  Administrative Assistant to Drs. James Fraser and  Michael Fischbach<br>
+  Department of Bioengineering and Therapeutic Sciences  <br>
+  Email:  CathleenNicole.Canlas (at) ucsf.edu  <br>
+  Phone: 415 514 486 one   <br>
 
 </div>
 
 </div>
 
-* * *
+***
 
-# Lab Address
+# Graduate Programs
+
+### The Fraser Lab participates in the following UCSF graduate programs:  
+  * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry.
+  * **[Chemistry and Chemical Biology](http://ccb.ucsf.edu/)**: The Chemistry and Chemical Biology Graduate Program (CCB) at the University of California, San Francisco (UCSF) prepares scientists to address problems at the intersection of chemistry and biology by providing a chemical foundation for understanding complex biological processes at an atomic level.
+  * **[Pharmaceutical Sciences and Pharmacogenomics](http://pspg.ucsf.edu/)**: The Pharmaceutical Sciences and Pharmacogenomics (PSPG) Graduate Program at the University of California, San Francisco (UCSF) focuses on how to develop effective drug therapies for patients that have a minimum of adverse effects.
+  * **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry & Molecular Biology, Cell Biology, Developmental Biology, & Genetics.
+
+# Postdoctoral Fellows
+
+Inquiries about Postdoctoral positions should be emailed directly to James Fraser and clearly, but briefly, articulate why you are potentially interested in joining the lab. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
+
+***
+
+# Directions to the Fraser Lab
 
 <div class="row">
 
 <div class="col-md-4">
 
-University of Virginia<br>
-Biomedical Engineering and Biomedical Science Building<br>
-MR5 Room 2220<br>
-415 Lane Road<br>
-Charlottesville, VA 22908<br>
-tel: 434 924 164 nine
+<h4>Office Address</h4>
+
+Department of Bioengineering and Therapeutic Sciences Box #2240<br>
+600 16th Street, Genentech Hall Room S472E<br>
+San Francisco, CA 94143
+
+
+</div>
+
+<div class="col-md-4">
+
+<h4>Lab Address</h4>
+
+Department of Bioengineering and Therapeutic Sciences Box #2240<br>
+600 16th Street, Genentech Hall Room S476<br>
+San Francisco, CA 94143
 
 </div>
 
 </div>
 
-* * *
 
-# Directions to the Zunder Lab
 
-<div class="google-maps">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d785.6741214970864!2d-78.50102297301949!3d38.03085217749819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x965c31c854f66b2d!2sMR5+Building%2C+UVA+School+of+Medicine!5e0!3m2!1sen!2sus!4v1438042955562" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
+
+<!-- Our lab is in on the UCSF Mission Bay campus in Genentech Hall (600 16th St, San Francisco, CA 94158)
+ -->
+
+### The Mission Bay Campus can be reached:  
+* #### by public transportation:
+  * **Option 1**: Exit BART at the 16th St Station and wait for the free UCSF Red shuttle that stops directly outside [the Burger King](https://www.google.com/maps/@37.765092,-122.419164,3a,75y,5.38h,82.64t/data=!3m4!1e1!3m2!1sH_jzIrhuF8wnnEp0duvIEQ!2e0) (this option is only available on weekdays: [UCSF Shuttles](http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles)).
+  * **Option 2**: Exit BART at the 16th St Station and take the 55 Muni Bus towards Mission Bay. Exit at 16th and 4th.
+  * **Option 3**: Exit BART at the Embarcadero Station and then take the MUNI T-line inbound to Sunnydale. Exit at the Mission Bay stop on 3rd Street.
+  * **Option 4**: Exit Caltrain and then walk along [4th St](https://www.google.com/maps/dir/Caltrain+Bike+Station,+311+Townsend+St,+San+Francisco,+CA+94107/600+16th+St,+San+Francisco,+CA,+USA/@37.7718722,-122.4005542,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x808f7fd683557039:0xcb4ed812802cede8!2m2!1d-122.395387!2d37.776552!1m5!1m1!1s0x808f7fcf1e3cc5ff:0x6e582d4a0ba7d4ca!2m2!1d-122.3922173!2d37.7671496!3e2) for about 10-15 minutes until arriving at UCSF - if the Muni is there, you can get on the T-line inbound and exit at the Mission Bay stop on 3rd Street, but this is often slower than walking.
+* #### by car:
+  * We are at 600 16th Street Street, between Owens and 4th St. There are two parking garages (please park in the  garages and not in the surface lots) on campus that are equally convenient.
+
+### Once on campus, proceed to Genentech Hall:
+1. You will have to enter through Genentech Hall from the Koret Quad side (Red dot on the map below)
+2. Sign in at security for a meeting with Dr. James Fraser (office Genentech Hall S472E)
+3. Take the elevator or staircase to the fourth floor
+4. Walk west down the hall. If the floor changes colour to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back to Genentech Hall
+5. Make your second left (south) to the S401-484 neighborhood
+6. James' office is through the clear doors, the lab is on your right.
+
+<img class="img-responsive center-block" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">

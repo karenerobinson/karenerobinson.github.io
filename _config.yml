@@ -1,11 +1,13 @@
-name: "Zunder Lab @ UVa"
-description: "This is the official web page for the Eli Zunder Lab at UVa."
+name: "Fraser Lab @ UCSF"
+description: "This is the official web page for the James Fraser Lab at UCSF."
 
-url: "http://zunderlab.com"
+url: "http://fraserlab.com"
 
 paginate: 5
+gems: [jekyll-paginate]
 paginate_path: "news/page:num"
 
 permalink: pretty
-highlighter: rouge
 markdown: kramdown
+kramdown: 
+  parse_block_html: true

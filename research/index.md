@@ -1,50 +1,23 @@
 ---
-title: Research in the Zunder Lab
+title: Research in the Fraser Lab
 layout: default
 group: research
 ---
 
-## Research in the Zunder lab is focused on discovering the mechanisms that control stem cell fate.
+<img class="img-responsive center-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
 
+# The Fraser lab is focused on answering some of the central questions in protein biophysics and structural biology: 
 
-### Our research takes advantage of the close parallels between *in vitro* stem cell differentiation and *in vivo* development. Our *in vitro* experiments can provide insight into stem cell behavior during normal development and disease, and our *in vivo* experiments can provide insight into the derivation of clinically relevant cell types for regenerative therapy.
+## What are the “structures” of proteins?
 
+X-ray crystallography is traditionally used to define a single, static macromolecular structure. However, these “structures” are based on fitting atomic models into electron density maps that portray an ensemble average of the billions and billions of molecules in the crystal. By mining these maps using the electron density sampling program Ringer (developed in the Alber Lab at UC Berkeley), we have shown that ensemble features can reliably detected and that noise levels are much lower than commonly thought. Features at low-levels of electron density can reveal ligand, protein and solvent flexibility that can be exploited in inhibitor optimization. We are testing how ensemble (e.g. phenix.ensemble_refinement developed by the Phenix consortium at LBL) and multi-conformer (e.g. qFit developed by our collaborator Henry van den Bedem at SSRL/SLAC) modeling methods can improve both the statistical fit to experimental data and the ability to generate novel biological hypotheses.  The next major challenge is to determine the extent to which distant parts of the protein are conformationally coupled. 
 
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/In Vivo In Vitro Parallels.png" alt="In Vivo/In Vitro Parallels">
+## What are the key barriers and motions between these structures?
 
+Proteins often move between different conformations. NMR spectroscopy is well suited to determining the existence of multiple states and the rates of transitions between them.  However, the atomic details of these transitions remain difficult to ascertain and interrogate. To address these challenges, we have found that the conformational distributions of proteins in the crystal are remarkably sensitive to temperature perturbations. Previously we, in collaboration with Dorothee Kern’s lab at Brandeis, used these strategies to define catalytically essential conformations of the proline isomerase CypA. Residues that shift above and below the glass transition often overlap with the regions implicated by dynamic NMR studies. To build on these synergies between X-ray crystallography, computation, and NMR, we are refining room temperature diffraction techniques to minimize radiation damage. In addition, we are developing new X-ray scattering techniques to define collective protein motions.
 
-<br><br>
+## ...and what matters?
 
-### The central aim of our research is to discover the molecular mechanisms that control stem cell behavior. Specifically, we are working to identify factors that control the progression and branch points of stem cell differentiation.
+Finally, although these biophysical techniques generate beautiful images of electron density maps and NMR spectra, we use a variety of assays to test the importance of alternative conformations and protein motions. We study the role of protein motions in enzyme catalysis using directed evolution screens and selections.  In collaboration with Tanja Kortemme’s lab, we test the ability of protein design approaches to generate rescue mutants and create novel functions. We investigate the consequences of altering biophysical parameters in the context of living systems using high-throughput genetic screens pioneered by our collaborator Nevan Krogan.  These approaches reveal extensive parallels that scale from systems biology to atomic mechanisms in how we understand genetic non-additivity, buffering, and robustness.  We believe this “systems to structure” approach will be essential for elucidating disease mechanisms in the age of personal genomics.  
 
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Progression and Branch Points.png" alt="Progression and Branch Points">
-
-
-<br><br>
-
-### In order to study the complex mixtures of rapidly changing cell types that occur during *in vitro* and *in vivo* differentiation, we use single-cell analysis methods such as mass cytometry, which provides a detailed molecular picture of each cell with a throughput of one million cells per hour.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/CyTOF Overview Diagram.png" alt="CyTOF Overview">
-
-
-<br><br>
-
-### Each single-cell measurement represents a molecular "snapshot" in time. We seek to connect these "snapshots" together in order to recreate the molecular history of cellular differentiation. To accomplish this, we are building experimental and computational tools that track cell populations as they change over time. We have found force-directed graph layout algorithms to be useful for this purpose, and are working to incorporate additional factors such as timepoint and cell lineage into our analysis.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Layout.gif" alt="Force-directed Layout">
-
-
-<br><br>
-
-### Using these experimental and computational tools, our goal is to define the fundamental principles of stem cell differentiation, and apply this knowledge to the development of regenerative transplantation therapies.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Regenerative Medicine Overview.png" alt="Regenerative Medicine Overview">
+The long-term goals of our research are: 1) to develop fundamental biophysical methods and 2) to apply these methods to define the role of protein conformational dynamics in interaction specificity, allostery, and catalysis.
